@@ -14,7 +14,7 @@ class Dog
       "Mutt"
     end
   end
-      
+
   def name
     @name
   end
